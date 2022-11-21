@@ -5,7 +5,7 @@ How the run the program: Please execute Project.py to run the program.
 
 Main files:
 
-REAMEME.txt : This file
+REAMEME.md : This file
 
 Project.py :  Main program 
 
